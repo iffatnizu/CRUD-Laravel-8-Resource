@@ -7,7 +7,7 @@ namespace App\Http\Middleware;
 use Closure;
 use Illuminate\Http\Request;
 
-class DashbaordCheckSecretKey
+class DashboardCheckSecretKey
 {
     /**
      * Handle an incoming request.
